@@ -1,0 +1,27 @@
+nav {
+	background-color: #00264C;
+}
+
+* {
+  font-family: "Montserrat", system-ui;
+}
+
+#landing{
+	background-color: #CCCC00;
+	min-height: 100vh;
+}
+
+
+.bg-color1{
+	background-color: #CCCC00;	
+}
+
+footer {
+	background-color: #00264C;
+}
+
+
+.contact1 {
+	height: 50px;
+	width: 50px;
+}
