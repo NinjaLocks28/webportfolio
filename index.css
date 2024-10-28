@@ -1,5 +1,13 @@
+body, html {
+    overflow-x: hidden;
+}
+
 nav {
 	background-color: #00264C;
+}
+
+nav a {
+	color: #CCCC00;
 }
 
 * {
@@ -24,4 +32,8 @@ footer {
 .contact1 {
 	height: 50px;
 	width: 50px;
+}
+
+iframe {
+	border:0;
 }
